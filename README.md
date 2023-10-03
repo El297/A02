@@ -1,4 +1,31 @@
 # A02
+<h1>How to Use Git/Webstorm/Github</h1>
+<ol>
+  <li>Download Webstorm via https://www.jetbrains.com/student/</li>
+  <li>Download Git via https://git-scm.com/downloads</li>
+  <li>Make an account on GitHub via https://github.com/</li>
+  <li>Connect GitHub with Webstorm via system perferences(ctrl+Alt+S) and select Version control --> Git. Enter the path to git.exe</li>
+  <li>Add GitHub password to Webstorm via system preferences. Select appearance & behavior-->System settings --> Passwords. </li>
+  <li>Create a repository in GitHub by pressing the + sign in the top right corner and clicking "Create New Repository"</li>
+  <li>Make the repository public and add the readme file</li>
+  <li>Creating a Repository via Webstorm by selecting VCS and importing version control</li>
+  <li>Import a repository from GitHub by Selecting Checkout from Version Control --> Git. Enter the repository name and enter the local path name </li>
+  <li>Create a Webstorm File by choosing the file --> HTML --> HTML 5 --> Stylesheet</li>
+  <li>Add files to Git by opening the Add to Git dialog and clicking add</li>
+  <li>Commit your changes</li>
+  <li>Push Change to Remote Repository by clicking Ctrl --> Shift --> K</li>
+</ol>
+References:
+<ul>
+  <li>Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press.
+  <li>Jetbrains. (2019). Git. Retrieved March 21, 2019, from
+https://www.jetbrains.com/help/webstorm/using-git-
+integration.html</li>
+  <li>GitHub (2019) GitHub Guides Tutorial. Retrieved March
+19, 2019, from
+https://guides.github.com/activities/hello-world/</li>
+</ul>
+
 <ul>
 <li><strong>Branch</strong>-  the branch that GitHub displays when anyone visits your repository. </li>
 <li><strong>Clone</strong> - clones (copies) of a repository that sit on the developer’s computer instead of a server elsewhere.</li>
